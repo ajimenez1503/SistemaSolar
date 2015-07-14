@@ -1,4 +1,4 @@
-# SistemaSolar
+# SistemaSolar 3D
 un sistema gráfico que represente el sistema solar en movimiento: el Sol, los planetas y sus satélites. También se incluirá una nave espacial que recorrerá el sistema solar.
 
 Se habilitarán diversas cámaras en la escena, pudiendo visualizar con una u otra según
